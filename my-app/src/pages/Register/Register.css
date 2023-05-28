@@ -1,0 +1,52 @@
+
+
+
+
+.auth{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(247, 203, 240);
+    align-items: center;
+    
+
+}
+h1{
+        font-size: 30px;
+        margin-bottom: 20px;
+        color:rgb(249, 9, 201);
+}
+form{
+        display: flex;
+        flex-direction: column;
+        background-color: white;
+        padding: 40px;
+        margin:7px;
+        gap: 20px;
+        border-radius: 5px;
+}
+input{
+            padding:15px;
+            border: none;
+            border-bottom: 1px solid grey;
+}
+button{
+            background-color: rgb(249, 9, 201);
+            border-radius: 3px;
+            border: none;    
+            color: white;
+            cursor: pointer;
+            padding: 10px;
+
+}
+p{
+            color:red;
+            font-size: 12px;
+            text-align: center;
+}
+span{
+            font-size: 12px;
+            text-align: center;
+ }
+    
